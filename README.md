@@ -1,5 +1,4 @@
-# MachineLearning_Portfolio
-### Gray Simpson
+# Gray Simpson's Machine Learning Portfolio
 A portfolio for work done relating to Machine Learning. 
 
 ## Machine Learning Overview and Definitions
