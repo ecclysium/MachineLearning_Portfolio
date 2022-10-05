@@ -9,3 +9,6 @@ A document talking about statistics between two vectors, and a C++ code file dem
 
 ## Assignment 3- Linear Models
 Now we're getting our hands *R*-eally dirty. A document discussing linear regression in many different forms can be found [here,](LinearModels/Regression.pdf) and a document detailing logistic regression and Naive Bayes for classification can be found [here.](LinearModels/Classification.pdf)
+
+## Assignment 4 - ML Algorithms from Scratch
+Woaaaahhhhhh I love me some ml. You can find Zaiquiri's and I's work making algorithms from scratch right [here!](MLFromScratch)
