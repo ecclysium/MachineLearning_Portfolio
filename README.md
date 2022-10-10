@@ -12,3 +12,6 @@ Now we're getting our hands *R*-eally dirty. A document discussing linear regres
 
 ## Assignment 4 - Machine Learning From Scratch
 Naive Bayes and Logistic Regression coded from scratch in C++. A document discussion what we learned from studying the same data from different algorithms with different attributes can be found [here.](FromScratch/MachineLearningClassificationFromScratch.pdf) Code for Naive Bayes can be found [here,](FromScratch/NaiveBayes.cpp) and Logistic Regression can be found [here.](FromScratch/LogisticRegressionModel.cpp)
+
+##Assignment 5 - Similarities
+A document talking about various ways that algorithms that look for similarities between data points can be [found here.](Similarities/Similarities.pdf) A document on regression can be found [here,](Similarities/Regression.pdf) on classification can be found [here,](Similarities/Classification.pdf) clustering can be found [here,](Similarities/Clustering.pdf), and dimension reduction can be found [here,](Similarities/Dimensionality.pdf).
