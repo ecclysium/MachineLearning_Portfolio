@@ -15,3 +15,6 @@ Naive Bayes and Logistic Regression coded from scratch in C++. A document discus
 
 ## Assignment 5 - Similarities
 A document talking about various ways that algorithms that look for similarities between data points can be [found here.](Similarities/Similarities.pdf) A document on regression can be found [here,](Similarities/Regression.pdf) on classification can be found [here,](Similarities/Classification.pdf) clustering can be found [here,](Similarities/Clustering.pdf) and dimension reduction can be found [here.](Similarities/Dimensionality.pdf) In collaboration with Zachary Canoot, Aarushi Pandey, and Brandon Runyon.
+
+## Assignment 6 - SVM Kernels and Ensemble Learning
+A document talking about SVM Classification can be [found here,](KernelEnsemble/ClassificationSVM.pdf) and a document on SVM Regression can be [found here.](KernelEnsemble/RegressionSVM.pdf) Ensemble learning on the same data as we performed SVM Classification on can be found [here.](KernelEnsemble/EnsembleLearning.pdf) Done in partnership with Zachary Canoot.
