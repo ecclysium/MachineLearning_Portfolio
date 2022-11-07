@@ -1,5 +1,5 @@
 # MachineLearning_Portfolio
-A portfolio for work done relating to Machine Learning. 
+A portfolio for work done relating to Machine Learning by Gray Simpson. 
 
 ## Assignment 1- Machine Learning Overview and Definitions
 An assignment talking about definitons in Machine Learning, important points, and examples. I also talk briefly about what I would like to learn in ML. A link to the pdf can be found [here.](OverviewOfML.pdf)
@@ -18,3 +18,6 @@ A document talking about various ways that algorithms that look for similarities
 
 ## Assignment 6 - SVM Kernels and Ensemble Learning
 A document talking about SVM Classification can be [found here,](KernelEnsemble/ClassificationSVM.pdf) and a document on SVM Regression can be [found here.](KernelEnsemble/RegressionSVM.pdf) Ensemble learning on the same data as we performed SVM Classification on can be found [here.](KernelEnsemble/EnsembleLearning.pdf) Done in partnership with Zachary Canoot.
+
+## Assignment 7 - ML with Sklearn
+A notebook document delving into Logistic Regression, Decision Trees, and Neural Networks within Python's sklearn can be found [here.](PythonSklearn/PythonSklearn.pdf) 
