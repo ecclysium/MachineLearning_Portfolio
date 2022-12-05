@@ -21,3 +21,6 @@ A document talking about SVM Classification can be [found here,](KernelEnsemble/
 
 ## Assignment 7 - ML with Sklearn
 A notebook document delving into Logistic Regression, Decision Trees, and Neural Networks within Python's sklearn can be found [here.](PythonSklearn/PythonSklearn.pdf) 
+
+## Assignment 8 - Image Classification
+A notebook document detailing the adventures of classifying handwritten characters to their langauge of origin can be found [here.](ImageClassification/ImageClassification.pdf)
